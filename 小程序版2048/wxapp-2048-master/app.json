@@ -7,10 +7,10 @@
   ],
   "window":{
     "navigationBarBackgroundColor":"#ffffff",
-    "navigationBarTextStyle":"#1AAD16",
+    "navigationBarTextStyle":"black",
     "navigationBarTitleText":"微信接口功能演示",
     "backgroundColor":"#eeeeee",
-    "backgroundTextStyle":"light"
+    "backgroundTextStyle":"dark"
   },
   "tabBar": {
     "color": "#353535",

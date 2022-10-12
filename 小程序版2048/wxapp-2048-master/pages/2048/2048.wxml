@@ -1,5 +1,4 @@
 <view class="container">
-
   <view class="game-body">
     <loading hidden="{{hidden}}">
         加载中...
@@ -43,4 +42,5 @@
       <view class="important">如何开始：</view> 手指上下左右滑动
     </view> -->
 
+</view>
 </view>
